@@ -1,5 +1,7 @@
 ## Lab: Extending an API with GraphQL and gRPC Communication
 
+[Diagram](https://git.generalassemb.ly/back-end-development-with-javascript/Lab13_Extending-an-API-with-GraphQL-and-gRPC-Communication/blob/main/API%20integration%20with%20GraphQL%20and%20gRPC.png)
+
 **Prerequisites:**
 
 * Node.js installed
